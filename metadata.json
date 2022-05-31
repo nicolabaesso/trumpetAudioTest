@@ -1,0 +1,22 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "nicolabaesso@gmail.com",
+                "Name": "Nicola Baesso"
+            }
+        ],
+        "Category": "Multimedia",
+        "Description": "Test if audio works via a trumpet sound",
+        "Icon": "audio-volume-high",
+        "Id": "trumpetAudioTest",
+        "Name": "Trumpet Audio Test",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "1.0",
+        "Website": "https://github.com/nicolabaesso/trumpetAudioTest"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml"
+} 
